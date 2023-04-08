@@ -4,6 +4,10 @@ var generateBtn = document.querySelector("#generate");
 
 
 const compareRandom = () => Math.random() - 0.5;
+//defining a function called compareRandom. It will use a buil-in method called Math.random 
+//to generate a random number between 0 an 1 then substracting 0.5 from this random number that giving us a positive or negative number.
+//later we can use this to get a random order in an array
+
 //const randomInteger = ( min, max ) => Math.round(min - 0.5 + Math.random() * (max - min + 1));
 const randomInteger = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
@@ -16,19 +20,15 @@ let arr_symb = ['!', '@', '#', '$', '%', '?', '-', '+', '=', '~'];
 // initializing 4 arrays that will contain numbers, lower case, upper case and special characters.
 
 
-
+//the function that will generate the password
 function generatePassword() {
   console.log("here comes the password");
   
-  // pseudo code
-  // 1. prompt the user to enter password criteria
-  //    Password length must be between 8 -128
-  //    lowercase, uppercase, numbers, special characters
+
+  // 1. asking then validating user inputs (lowecase, uppercase, numbers, special characters)
+  // 2. generating the password according to the validated data
+  // 3. outputting the generated password throught the html element #password
   
-  // 2. validate the input
-  // 3. generate password based on criteria
-  // 4. display password to the page
-  // function numberOfCharacters() {
     // ________________________________________________________
     
     
@@ -86,7 +86,9 @@ function generatePassword() {
           alert("Please select at least one character type. ")
           return "";
         }
-        arr = characters.split('');
+
+
+        arr = characters.split(''); //separating the characters 
         arr.sort(compareRandom);
         
         let password = '';
