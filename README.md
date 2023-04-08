@@ -36,4 +36,6 @@ Github Repository: https://github.com/evothinke/Random-Password-Generator-3<br>
 ![screenshot of the project](./Assets/images/5.png "Project Screenshot")
 ![screenshot of the project](./Assets/images/6.png "Project Screenshot")
 ![screenshot of the project](./Assets/images/7.png "Project Screenshot")
+<br><br>
+This is where the user entered a different character than an integer between 8 and 128.<br><br>
 ![screenshot of the project](./Assets/images/8.png "Project Screenshot")
