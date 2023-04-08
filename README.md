@@ -29,11 +29,11 @@ Some logic was added so the human factor doesn't break the program.
 Deployed website: https://evothinke.github.io/Random-Password-Generator-3/<br>
 Github Repository: https://github.com/evothinke/Random-Password-Generator-3<br>
 
- ![screenshot of the project](./Assets/images/1.png "Project Screenshot")
-  ![screenshot of the project](./Assets/images/2.png "Project Screenshot")
-   ![screenshot of the project](./Assets/images/3.png "Project Screenshot")
-    ![screenshot of the project](./Assets/images/4png "Project Screenshot")
-     ![screenshot of the project](./Assets/images/5.png "Project Screenshot")
-      ![screenshot of the project](./Assets/images/6.png "Project Screenshot")
-       ![screenshot of the project](./Assets/images/7.png "Project Screenshot")
-        ![screenshot of the project](./Assets/images/8.png "Project Screenshot")
+![screenshot of the project](./Assets/images/1.png "Project Screenshot")
+![screenshot of the project](./Assets/images/2.png "Project Screenshot")
+![screenshot of the project](./Assets/images/3.png "Project Screenshot")
+![screenshot of the project](./Assets/images/4.png "Project Screenshot")
+![screenshot of the project](./Assets/images/5.png "Project Screenshot")
+![screenshot of the project](./Assets/images/6.png "Project Screenshot")
+![screenshot of the project](./Assets/images/7.png "Project Screenshot")
+![screenshot of the project](./Assets/images/8.png "Project Screenshot")
